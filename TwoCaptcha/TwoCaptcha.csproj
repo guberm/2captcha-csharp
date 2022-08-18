@@ -7,7 +7,7 @@
         <Company>2captcha</Company>
     </PropertyGroup>
     <PropertyGroup>
-        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <TargetFramework>net5.0</TargetFramework>
     </PropertyGroup>
     <ItemGroup>
         <None Include="..\README.md" pack="true" PackagePath="." />
